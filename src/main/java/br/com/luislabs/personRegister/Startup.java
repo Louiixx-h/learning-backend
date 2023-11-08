@@ -1,4 +1,4 @@
-package br.com.luislabs.restwithspringbootandjavaerudio;
+package br.com.luislabs.personRegister;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
